@@ -1,4 +1,4 @@
-### Oii! eu sou a samara! 👋
+### Oii  👋
 
 
 - 🌱Estudando java
